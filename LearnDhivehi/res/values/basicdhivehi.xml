@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dh_hello">Hello</string>
+    <string name="dh_goodbye_dh">Dhanee</string>
+    <string name="dh_howareyou">Kihineh?</string>
+    <string name="dh_thankyou">Shukuriyya</string>
+    <string name="dh_please">Please</string>
+   
+</resources>
